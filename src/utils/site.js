@@ -4,6 +4,6 @@ export const url = 'https://cewekhijab.pages.dev';
 export const terbit = '2024-12-17T00:01:03Z';
 
 export const google = 'dzNqvBNufkxRDPtXsRmv3sEKR8ICiEe0cJAZFTxYDmE';
-export const yandex = '4a09c96c452f4f8f'
+export const yandex = 'ff56c48aea988dd7'
 
 export const index = 'dff2f209-c4a9-44c8-bd9c-50d10774818c';
